@@ -1,0 +1,8 @@
+{
+    "short_name": "PWAサイト",
+    "name": "サンプルのPWAサイト",
+    "start_url": "https://postbrain28.github.io/pwa/",
+    "display": "standalone",
+    "background_color": "#2196F3",
+    "orientation": "portrait"
+}
